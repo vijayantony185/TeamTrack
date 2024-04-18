@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="userImageSize">100dp</dimen>
+    <dimen name="medium">5dp</dimen>
+    <dimen name="large">10dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="fabSize">48dp</dimen>
+    <dimen name="title_large">20sp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="splashImageSize">150dp</dimen>
+</resources>
